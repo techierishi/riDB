@@ -1,4 +1,4 @@
-# Thread safe key value pair NoSql database
+# Thread safe key value pair embedded NoSql database
 NoSql Database in its simplest form
 
 Steps to use the database:
